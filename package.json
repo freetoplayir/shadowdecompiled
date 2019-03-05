@@ -1,0 +1,16 @@
+{
+  "name": "shadow",
+  "productName": "Shadow",
+  "description": "Shadow launcher",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "Blade",
+    "email": "contact@blade-group.com"
+  },
+  "homepage": "shadow.tech",
+  "license": "MIT",
+  "dependencies": {
+    "save-dev": "^2.0.0"
+  },
+  "version": "0.8.104"
+}

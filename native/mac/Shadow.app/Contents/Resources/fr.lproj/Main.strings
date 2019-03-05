@@ -1,0 +1,162 @@
+
+/* Class = "NSMenuItem"; title = "Unlocked"; ObjectID = "1J7-75-Cc5"; */
+"1J7-75-Cc5.title" = "Débloquée";
+
+/* Class = "NSMenuItem"; title = "Shadow"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Shadow";
+
+/* Class = "NSMenuItem"; title = "Fullscreen"; ObjectID = "3jE-rM-E10"; */
+"3jE-rM-E10.title" = "Plein écran";
+
+/* Class = "NSMenu"; title = "Mouse"; ObjectID = "3v1-LC-P9R"; */
+"3v1-LC-P9R.title" = "Souris";
+
+/* Class = "NSMenu"; title = "Display statistics overlay"; ObjectID = "RCs-ic-B3H"; */
+"RCs-ic-B3H.title" = "Afficher les statistiques";
+
+/* Class = "NSMenuItem"; title = "Shut Down Windows"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Éteindre Windows";
+
+/* Class = "NSMenuItem"; title = "About Shadow"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "À propos";
+
+/* Class = "NSMenuItem"; title = "Use Gamer mode"; ObjectID = "7lE-aF-SkI"; */
+"7lE-aF-SkI.title" = "Changer de mode";
+
+/* Class = "NSMenuItem"; title = "Locked"; ObjectID = "7z5-md-siI"; */
+"7z5-md-siI.title" = "Bloquée";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Menu principal";
+
+/* Class = "NSMenuItem"; title = "Show tutorial"; ObjectID = "Co8-UR-2TH"; */
+"Co8-UR-2TH.title" = "Revoir le tutoriel";
+
+/* Class = "NSMenuItem"; title = "Bandwith"; ObjectID = "Dla-on-9lr"; */
+"Dla-on-9lr.title" = "Bande passante";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Aide";
+
+/* Class = "NSTextFieldCell"; title = "Parameter change"; ObjectID = "FEu-mP-V0a"; */
+"FEu-mP-V0a.title" = "Parameter change";
+
+/* Class = "NSMenuItem"; title = "Shadow Help Center"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Centre d'aide Shadow";
+
+/* Class = "NSMenuItem"; title = "Mouse"; ObjectID = "FaW-39-GRJ"; */
+"FaW-39-GRJ.title" = "Souris";
+
+/* Class = "NSMenu"; title = "Settings"; ObjectID = "Gle-ia-ajj"; */
+"Gle-ia-ajj.title" = "Paramètres";
+
+/* Class = "NSWindow"; title = "Shadow for macOS"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Shadow";
+
+/* Class = "NSMenuItem"; title = "Restart Streaming"; ObjectID = "IdI-BX-p3r"; */
+"IdI-BX-p3r.title" = "Relancer le streaming";
+
+/* Class = "NSMenuItem"; title = "Mouse"; ObjectID = "JGa-fL-Wom"; */
+"JGa-fL-Wom.title" = "Souris";
+
+/* Class = "NSMenu"; title = "Bandwith"; ObjectID = "KGb-iJ-wSW"; */
+"KGb-iJ-wSW.title" = "Bande passante";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Tout afficher";
+
+/* Class = "NSMenuItem"; title = "Hide Shadow"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Masquer Shadow";
+
+/* Class = "NSMenuItem"; title = "Restart Windows"; ObjectID = "P0m-sA-F4a"; */
+"P0m-sA-F4a.title" = "Redémarrer Windows";
+
+/* Class = "NSSegmentedCell"; PbG-U9-Usx.ibShadowedLabels[0] = "Auto"; ObjectID = "PbG-U9-Usx"; */
+"PbG-U9-Usx.ibShadowedLabels[0]" = "Automatique";
+
+/* Class = "NSSegmentedCell"; PbG-U9-Usx.ibShadowedLabels[1] = "10 Mbits/s"; ObjectID = "PbG-U9-Usx"; */
+"PbG-U9-Usx.ibShadowedLabels[1]" = "10 Mbits/s";
+
+/* Class = "NSSegmentedCell"; PbG-U9-Usx.ibShadowedLabels[2] = "20 Mbits/s"; ObjectID = "PbG-U9-Usx"; */
+"PbG-U9-Usx.ibShadowedLabels[2]" = "20 Mbits/s";
+
+/* Class = "NSSegmentedCell"; PbG-U9-Usx.ibShadowedLabels[3] = "30 Mbits/s"; ObjectID = "PbG-U9-Usx"; */
+"PbG-U9-Usx.ibShadowedLabels[3]" = "30 Mbits/s";
+
+/* Class = "NSSegmentedCell"; PbG-U9-Usx.ibShadowedLabels[4] = "50 Mbits/s"; ObjectID = "PbG-U9-Usx"; */
+"PbG-U9-Usx.ibShadowedLabels[4]" = "50 Mbits/s";
+
+/* Class = "NSButtonCell"; title = "Lock"; ObjectID = "QGv-W4-hRL"; */
+"QGv-W4-hRL.title" = "Bloquer la souris";
+
+/* Class = "NSMenuItem"; title = "Auto"; ObjectID = "Qv7-Ig-taI"; */
+"Qv7-Ig-taI.title" = "Automatique";
+
+/* Class = "NSMenuItem"; title = "Contact support"; ObjectID = "Rol-RT-TGQ"; */
+"Rol-RT-TGQ.title" = "Support";
+
+/* Class = "NSMenuItem"; title = "Mouse shortcut"; ObjectID = "RqF-q6-Muo"; */
+"RqF-q6-Muo.title" = "Mouse shortcut";
+
+/* Class = "NSButtonCell"; title = "Reboot"; ObjectID = "TTs-w7-Xft"; */
+"TTs-w7-Xft.title" = "Redémarrer Windows";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Masquer les autres";
+
+/* Class = "NSMenuItem"; title = "40 Mbits/s"; ObjectID = "VeD-qF-xXR"; */
+"VeD-qF-xXR.title" = "40 Mbits/s";
+
+/* Class = "NSMenuItem"; title = "30 Mbits/s"; ObjectID = "WZX-hB-AIU"; */
+"WZX-hB-AIU.title" = "30 Mbits/s";
+
+/* Class = "NSMenuItem"; title = "15 Mbits/s"; ObjectID = "Zex-wu-E1l"; */
+"Zex-wu-E1l.title" = "15 Mbits/s";
+
+/* Class = "NSMenuItem"; title = "20 Mbits/s"; ObjectID = "bZo-hc-uYT"; */
+"bZo-hc-uYT.title" = "20 Mbits/s";
+
+/* Class = "NSMenuItem"; title = "50 Mbits/s"; ObjectID = "cCw-jz-SLn"; */
+"cCw-jz-SLn.title" = "50 Mbits/s";
+
+/* Class = "NSMenuItem"; title = "Auto"; ObjectID = "dXz-cH-YhZ"; */
+"dXz-cH-YhZ.title" = "Automatique";
+
+/* Class = "NSMenu"; title = "Mouse shortcut"; ObjectID = "fUc-zL-x7o"; */
+"fUc-zL-x7o.title" = "Mouse shortcut";
+
+/* Class = "NSMenuItem"; title = "Quit shadow"; ObjectID = "fsQ-UJ-I2F"; */
+"fsQ-UJ-I2F.title" = "Quitter Shadow";
+
+/* Class = "NSButtonCell"; title = "Restart"; ObjectID = "nsT-1v-h7E"; */
+"nsT-1v-h7E.title" = "Redémarrer le streaming";
+
+/* Class = "NSMenuItem"; title = "Alternative Color Rendering"; ObjectID = "oXz-9h-JqN"; */
+"oXz-9h-JqN.title" = "Rendu alternatif des couleurs";
+
+/* Class = "NSMenuItem"; title = "Settings"; ObjectID = "q8S-xl-lPB"; */
+"q8S-xl-lPB.title" = "Paramètres";
+
+/* Class = "NSMenuItem"; title = "Low-bandwidth mode (H.265)"; ObjectID = "qZe-Lb-lhP"; */
+"qZe-Lb-lhP.title" = "Mode faible connexion (H.265)";
+
+/* Class = "NSMenuItem"; title = "5 Mbits/s"; ObjectID = "rs0-4P-4mI"; */
+"rs0-4P-4mI.title" = "5 Mbits/s";
+
+/* Class = "NSMenuItem"; title = "Shadow Mode"; ObjectID = "t8j-qf-bkk"; */
+"t8j-qf-bkk.title" = "Shadow Mode";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "tZW-HV-PRA"; */
+"tZW-HV-PRA.title" = "Window";
+
+/* Class = "NSMenu"; title = "Shadow"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Shadow";
+
+/* Class = "NSButtonCell"; title = "Reboot"; ObjectID = "wF6-ee-fpk"; */
+"wF6-ee-fpk.title" = "";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Aide";
+
+/* Class = "NSMenuItem"; title = "10 Mbits/s"; ObjectID = "xzi-XR-zw1"; */
+"xzi-XR-zw1.title" = "10 Mbits/s";
